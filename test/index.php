@@ -10,7 +10,8 @@
 
 <body>
   <h1><?php echo 'php header' ?></h1>
-  <?php echo '<p>HI</p>'; ?>
+  <?php echo '<p>HI2</p>'; ?>
+  <?php phpinfo(); ?>
 </body>
 
 </html>
